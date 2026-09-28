@@ -11,9 +11,9 @@
   - **[Three-Stage AI Lead Nurture](https://github.com/itsleonforshort/three-stage-AI-lead-nurture)**: follows up with leads over five days and knows when to stop
   - **[FTSE 100 Weather Report](https://github.com/itsleonforshort/ftse100-weather-report)**: a daily FTSE 100 market report paired with the weather at each company's office
   - **[Skin Theory Website](https://github.com/itsleonforshort/skin-theory-website)**: a brand storefront built with React, TypeScript and Tailwind
-- 🛠️ Skills: n8n Workflow Automation, AI Agents, Claude Code, Prompt Engineering, API Integrations, Google Workspace APIs
+- 🛠️ Skills: n8n Workflow Automation, AI Agents, Claude Code, MCP (Model Context Protocol), RAG, Prompt Engineering, API Integrations, Google Workspace APIs
 - 🔒 I build safely: read-only access to data sources, no secrets in code, and a human approves every paid AI call
-- 🌱 Currently learning: newly released AI models like JEV, MCP (Model Context Protocol) servers, AI agent evaluation, and RAG (retrieval-augmented generation)
+- 🌱 Currently learning: newly released AI models, like the Jev AI model
 - 💬 Ask me about: workflow automation, AI agents, reporting automation, AI video pipelines
 
 ## 🌐 Socials
