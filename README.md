@@ -1,10 +1,11 @@
-# Leoniel Orilla
+# Leonielhou Orilla
 
-**AI Automation Specialist.** I help businesses replace manual, repetitive work with reliable AI-powered workflows.
+**AI Solutions and Automation Engineer.** I help businesses replace manual, repetitive work with reliable AI-powered workflows.
 
 ## About Me
 
 - I build automations with n8n, Make.com, Zapier and AI agents
+- My automations cut the manual work they replace by 100%
 - I turn scattered business data into short, clear reports that leaders can act on
 - I build safely: read-only access to data sources, no secrets in code, and a human approves every paid AI call
 - Currently learning: newly released AI models, like the Jev AI model
@@ -12,14 +13,14 @@
 
 ## Featured Projects
 
-| Project | What it does | Built with |
-|---|---|---|
-| **[Executive Reporting Rollup](https://github.com/itsleonforshort/executive-reporting-rollup)** | Replaces a weekly leadership deck built by hand. Reads 5 data sources, writes an AI summary, and waits for a human to approve before sending. 25 nodes. | n8n, HubSpot, Supabase, OpenAI |
-| **[Podcast Clip Factory](https://github.com/itsleonforshort/podcast-clip-factory)** | Turns a full podcast episode into short captioned video clips, with a human review step. 7 modules, 348 nodes. | n8n, AssemblyAI, OpenAI, Shotstack, Airtable |
-| **[Three-Stage AI Lead Nurture](https://github.com/itsleonforshort/three-stage-AI-lead-nurture)** | Follows up new leads over 5 days with AI-written emails. Stops on 6 different signals, like a reply, bounce or unsubscribe. 71 nodes. | n8n, Google Gemini, Gmail, Google Sheets |
-| **[Multimodal Reel Automation](https://github.com/itsleonforshort/multimodal-reel-automation)** | Turns still images into AI talking-video reels in unattended batches. Works with 4 video models and has a built-in spending limit. | n8n, Higgsfield, Google Drive |
-| **[FTSE 100 Weather Report](https://github.com/itsleonforshort/ftse100-weather-report)** | A daily report on all 100 FTSE companies, with the weather at each top company's head office. 4 workflows, including a watchdog that checks the report arrived. | n8n, 6 public data APIs |
-| **[Skin Theory Website](https://github.com/itsleonforshort/skin-theory-website)** | A brand storefront for a skincare line. | React, TypeScript, Vite, Tailwind |
+| Project | What it does | Time saved | Built with |
+|---|---|---|---|
+| **[Executive Reporting Rollup](https://github.com/itsleonforshort/executive-reporting-rollup)** | Replaces a weekly leadership deck built by hand. Reads 5 data sources, writes an AI summary, and waits for a human to approve before sending. 25 nodes. | About 4 hours a week | n8n, HubSpot, Supabase, OpenAI |
+| **[Podcast Clip Factory](https://github.com/itsleonforshort/podcast-clip-factory)** | Turns a full podcast episode into short captioned video clips, with a human review step. 7 modules, 348 nodes. | About 6 hours per episode | n8n, AssemblyAI, OpenAI, Shotstack, Airtable |
+| **[Three-Stage AI Lead Nurture](https://github.com/itsleonforshort/three-stage-AI-lead-nurture)** | Follows up new leads over 5 days with AI-written emails. Stops on 6 different signals, like a reply, bounce or unsubscribe. 71 nodes. | About 3 hours a week | n8n, Google Gemini, Gmail, Google Sheets |
+| **[Multimodal Reel Automation](https://github.com/itsleonforshort/multimodal-reel-automation)** | Turns still images into AI talking-video reels in unattended batches. Works with 4 video models and has a built-in spending limit. | About 1 hour per reel | n8n, Higgsfield, Google Drive |
+| **[FTSE 100 Weather Report](https://github.com/itsleonforshort/ftse100-weather-report)** | A daily report on all 100 FTSE companies, with the weather at each top company's head office. 4 workflows, including a watchdog that checks the report arrived. | About 1 hour a day | n8n, 6 public data APIs |
+| **[Skin Theory Website](https://github.com/itsleonforshort/skin-theory-website)** | A brand storefront for a skincare line. | Not applicable | React, TypeScript, Vite, Tailwind |
 
 ## Work With Me
 
