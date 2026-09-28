@@ -5,7 +5,7 @@
 ## About Me
 
 - I build automations with n8n, Make.com, Zapier and AI agents
-- My automations cut the manual work they replace by 100%
+- My automations cut the manual work they replace by 98%
 - I turn scattered business data into short, clear reports that leaders can act on
 - I build safely: read-only access to data sources, no secrets in code, and a human approves every paid AI call
 - Currently learning: newly released AI models, like the Jev AI model
