@@ -1,0 +1,7 @@
+.mcp.json
+.env
+.env.*
+*.key
+*.pem
+.claude/settings.local.json
+node_modules/
