@@ -1,19 +1,29 @@
-# Hi there
+# Leoniel Orilla
+
+**AI Automation Specialist.** I help businesses replace manual, repetitive work with reliable AI-powered workflows.
 
 ## About Me
 
-- I build AI-powered automations that replace manual, repetitive work
+- I build automations with n8n, Make.com, Zapier and AI agents
 - I turn scattered business data into short, clear reports that leaders can act on
-- Recent projects:
-  - **[Executive Reporting Rollup](https://github.com/itsleonforshort/executive-reporting-rollup)**: an n8n workflow that builds a weekly leadership brief from five data sources, with a human approval step
-  - **[Podcast Clip Factory](https://github.com/itsleonforshort/podcast-clip-factory)**: turns a podcast episode into short captioned video clips, using AssemblyAI, GPT, Shotstack and Airtable
-  - **[Multimodal Reel Automation](https://github.com/itsleonforshort/multimodal-reel-automation)**: turns still images into AI-generated talking video reels, in unattended batches
-  - **[Three-Stage AI Lead Nurture](https://github.com/itsleonforshort/three-stage-AI-lead-nurture)**: follows up with leads over five days and knows when to stop
-  - **[FTSE 100 Weather Report](https://github.com/itsleonforshort/ftse100-weather-report)**: a daily FTSE 100 market report paired with the weather at each company's office
-  - **[Skin Theory Website](https://github.com/itsleonforshort/skin-theory-website)**: a brand storefront built with React, TypeScript and Tailwind
 - I build safely: read-only access to data sources, no secrets in code, and a human approves every paid AI call
 - Currently learning: newly released AI models, like the Jev AI model
 - Ask me about: workflow automation, AI agents, CRM automation, reporting automation
+
+## Featured Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| **[Executive Reporting Rollup](https://github.com/itsleonforshort/executive-reporting-rollup)** | Replaces a weekly leadership deck built by hand. Reads 5 data sources, writes an AI summary, and waits for a human to approve before sending. 25 nodes. | n8n, HubSpot, Supabase, OpenAI |
+| **[Podcast Clip Factory](https://github.com/itsleonforshort/podcast-clip-factory)** | Turns a full podcast episode into short captioned video clips, with a human review step. 7 modules, 348 nodes. | n8n, AssemblyAI, OpenAI, Shotstack, Airtable |
+| **[Three-Stage AI Lead Nurture](https://github.com/itsleonforshort/three-stage-AI-lead-nurture)** | Follows up new leads over 5 days with AI-written emails. Stops on 6 different signals, like a reply, bounce or unsubscribe. 71 nodes. | n8n, Google Gemini, Gmail, Google Sheets |
+| **[Multimodal Reel Automation](https://github.com/itsleonforshort/multimodal-reel-automation)** | Turns still images into AI talking-video reels in unattended batches. Works with 4 video models and has a built-in spending limit. | n8n, Higgsfield, Google Drive |
+| **[FTSE 100 Weather Report](https://github.com/itsleonforshort/ftse100-weather-report)** | A daily report on all 100 FTSE companies, with the weather at each top company's head office. 4 workflows, including a watchdog that checks the report arrived. | n8n, 6 public data APIs |
+| **[Skin Theory Website](https://github.com/itsleonforshort/skin-theory-website)** | A brand storefront for a skincare line. | React, TypeScript, Vite, Tailwind |
+
+## Work With Me
+
+I'm open to automation projects and contract work. Email me at [leoniel@motionai.work](mailto:leoniel@motionai.work) or message me on [LinkedIn](https://www.linkedin.com/in/leonielhou-orilla-510a48257/).
 
 ## Skills
 
