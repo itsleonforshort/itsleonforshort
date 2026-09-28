@@ -22,6 +22,8 @@
 | **[FTSE 100 Weather Report](https://github.com/itsleonforshort/ftse100-weather-report)** | A daily report on all 100 FTSE companies, with the weather at each top company's head office. 4 workflows, including a watchdog that checks the report arrived. | 15+ hours a week | n8n, 6 public data APIs |
 | **[Skin Theory Website](https://github.com/itsleonforshort/skin-theory-website)** | A brand storefront for a skincare line. | Not applicable | React, TypeScript, Vite, Tailwind |
 
+For more projects, go to **[motionai.work](https://motionai.work)**.
+
 ## Work With Me
 
 I'm open to automation projects and contract work. Email me at [leoniel@motionai.work](mailto:leoniel@motionai.work) or message me on [LinkedIn](https://www.linkedin.com/in/leonielhou-orilla-510a48257/).
