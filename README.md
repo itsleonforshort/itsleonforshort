@@ -1,6 +1,7 @@
 # Leonielhou Orilla
 
-**AI Solutions and Automation Engineer.** I replace the manual repetitive work with reliable AI-powered automation workflows. I build the Operations Layer that runs behind the work.
+**AI Solutions and Automation Engineer.** I build the Operations Layer that runs behind the work.
+I replace the manual repetitive work with reliable AI-powered automation workflows. 
 
 ## About Me
 
